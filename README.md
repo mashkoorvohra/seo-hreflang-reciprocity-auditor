@@ -1,7 +1,8 @@
 # 🌐 Bulk Hreflang Reciprocity, Canonical & XML Sitemap Auditor
 
 **Live App:** [https://seo-hreflang-reciprocity-auditor.streamlit.app/](https://seo-hreflang-reciprocity-auditor.streamlit.app/)
-
+> **Install as an AI Agent Skill (Claude Code / Cursor / MCP):** Get the packaged agent skill for automated multilingual hreflang audits and XML sitemap repairs on [Agensi](https://agensi.io/skills/seo-hreflang-reciprocity-auditor).
+> 
 A free, browser-based technical SEO auditor for international websites. Validates reciprocal return tags, self-references, ISO 639-1/3166-1 language-region codes, cross-locale canonical conflicts, HTTP status/noindex blocks, and XML `xhtml:link` sitemaps—and compiles a repaired XML sitemap automatically.
 
 ## Key Capabilities
